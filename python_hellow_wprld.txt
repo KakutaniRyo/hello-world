@@ -1,0 +1,6 @@
+# python “ü—Í—á
+
+print("Hellow World!")
+python test.py
+
+ 
